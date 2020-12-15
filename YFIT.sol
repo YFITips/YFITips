@@ -1,11 +1,12 @@
  pragma solidity ^0.4.21;
 
         /*
-        YFIT is the abbreviation of YFITroup.
-        YFIT's success is due to the core technology from YFI.
-        The development core team comes from the United States, China, and South Korea.
-        The YFI technology is independently forked and upgraded to a cluster interactive intelligent aggregator,
-        which aggregates multiple platforms Agreement to realize the interaction of assets on different decentralized liquidity platforms.
+        The core technical team from YFI founded YFIT,
+        which is the abbreviation of YFITips and points to the address yfi.tips. 
+        The development team has processed and analyzed YFI and a series of YF framework technologies,
+        and applied them to YFIT through in-depth optimization. 
+        It is a shard aggregator that has been forked and upgraded by YFI. 
+        It can aggregate multiple protocols in the contract Meet the asset interaction of different chains.
         */
 
          contract  IYFIT {
