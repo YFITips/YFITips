@@ -1,2 +1,2 @@
-# YFIG
-YFIG Contract Source Code
+# YFIT
+YFIT contract open source code is open here
